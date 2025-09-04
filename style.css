@@ -1,0 +1,32 @@
+body {
+    background-color: #000000;
+    color: aqua;
+}   
+h1 {
+    text-align: center;
+}
+
+
+.name {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.teach__list {
+    list-style: none;
+    width: 400px;
+    margin: auto;   
+}
+.teach__item {
+    border: solid 2px blue;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    font-size: large;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
+span {
+    color: red;
+}
